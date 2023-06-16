@@ -1,0 +1,74 @@
+{
+    "html": [
+        "README.md",
+        "artist.html",
+        "board.html",
+        "board.txt",
+        "fork.html",
+        "geometron.js",
+        "glyph.txt",
+        "index.html",
+        "mixtape.css",
+        "mixtape.html",
+        "operator.html",
+        "qrcode-page.html",
+        "qrcode.html",
+        "readme.html",
+        "readmeeditor.html",
+        "trashmagic.css",
+        "trashmagic.js",
+        "webdestroyer.html",
+        "webeditor.html"
+    ],
+    "data": [
+        "alignimage.txt",
+        "dna.txt",
+        "icon.txt",
+        "iconfeed.txt",
+        "imagefeed.txt"
+    ],
+    "skins": [
+        "Blue_Jeans_v13.wsz",
+        "DOSAmp.wsz",
+        "Episode_II_Obi-Wan_Kenobi_3.wsz",
+        "Evil_Dead_1_Skin.wsz",
+        "Fallout_Pip-Girl_3000_Amber_v1.wsz",
+        "Forever.wsz",
+        "Hackers_Black_Glass_by_KittyCat.wsz",
+        "Matrix_by_sukhi.wsz",
+        "Nucleo-NLog-2G1.wsz",
+        "RollerCoaster_Amp_V11.wsz",
+        "base-2.91.wsz",
+        "gundamp.wsz"
+    ],
+    "php": [
+        "deletefile.txt",
+        "dir.txt",
+        "dnagenerator.txt",
+        "editor.txt",
+        "fileloader.txt",
+        "filesaver.txt",
+        "mkdir.txt",
+        "replicator.txt",
+        "text2php.txt"
+    ],
+    "songs": [
+        "I_Got_it_Yesterday_-_Senator_Ted_Stevens.ogg",
+        "Series_of_Tubes_-_Senator_Ted_Stevens.ogg"
+    ],
+    "iconsymbols": [
+        "abcfont.svg",
+        "cursor.svg",
+        "delete.svg",
+        "expand.svg",
+        "expandsmall.svg",
+        "left.svg",
+        "leftsmall.svg",
+        "right.svg",
+        "rightsmall.svg",
+        "rotate.svg",
+        "scale.svg",
+        "shrink.svg",
+        "shrinksmall.svg"
+    ]
+}
